@@ -1,0 +1,7 @@
+C:\Users\manor\source\repos\365Players\365Players\bin\Debug\365Players.exe.config
+C:\Users\manor\source\repos\365Players\365Players\bin\Debug\365Players.exe
+C:\Users\manor\source\repos\365Players\365Players\bin\Debug\365Players.pdb
+C:\Users\manor\source\repos\365Players\365Players\obj\Debug\365Players.csproj.CoreCompileInputs.cache
+C:\Users\manor\source\repos\365Players\365Players\obj\Debug\365Players.exe
+C:\Users\manor\source\repos\365Players\365Players\obj\Debug\365Players.pdb
+C:\Users\manor\source\repos\365Players\365Players\obj\Debug\365Players.csprojAssemblyReference.cache
